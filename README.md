@@ -1,6 +1,6 @@
-# KAM (Kubernetes Application Manager) CLI
+# GitOps Application Manager
 
-KAM CLI provides command line interface to bootstrap GitOps and perform other operations.  See why and how [GitOps for Application Delivery](./docs/README.md) can help your business to streamline your application delivery.
+GitOps Application Manager is a command line interface to bootstrap GitOps for applications and manage the application delivery on the Kubernetes platform.  See why and how [GitOps for Application Delivery](./docs/README.md) ccan help your business to streamline your application delivery.
 
 ## CLI Reference
 
@@ -8,7 +8,7 @@ KAM CLI provides command line interface to bootstrap GitOps and perform other op
 
 ## Setup for DevConsole
 
-[An example setup steps which allows OpenShift DevConsole to display GitOps](./docs/devconsole)
+[An example setup which allows OpenShift DevConsole to display GitOps](./docs/devconsole)
 
 ## GitOps FAQs
 
